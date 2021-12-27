@@ -3,6 +3,7 @@
 ## 해당 프로젝트는 Jwt token을 이용한 로그인 데모 서비스입니다.
 
 ### 구성
+- Java 8
 - Spring boot 2.6.2, gradle-6.8.3
 - Spring JPA
 - Spring Security
