@@ -31,6 +31,11 @@ Library 추가 및 수정은 build.gradle 파일을 확인한다.
 - gradle compileQuerydsl 실행한다.
 - 상단 메뉴에서 Run > Edit Configuration > Active profiles > local 입력 후 실행
 
+또는 터미널에서 아래 명령어로 실행 한다.
+
+- ./gradlew clean bootRun -Dspring.profiles.active=local
+
+
 ### 테스트 방법
 
 Swagger Link - http://localhost:8080/swagger-ui/index.html#/
