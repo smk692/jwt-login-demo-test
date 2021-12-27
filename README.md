@@ -40,7 +40,7 @@ Library 추가 및 수정은 build.gradle 파일을 확인한다.
 
 Swagger Link - http://localhost:8080/swagger-ui/index.html#/
 - curl 명령어로 정리를 하면 복잡해지기때문에 swagger 사용
-- 아무것도 안나올 경우 explore 버튼 옆에 /api-docs 입력 후 검
+- 아무것도 안나올 경우 explore 버튼 옆에 /api-docs 입력 후 검색
 ```
 테스트 진행 하고 싶을 시 메뉴 바 안에 try it 클릭 후 진행 # X-API-VERSION = 1 필수
 
